@@ -160,34 +160,6 @@ print(me.life_motto())
   </picture>
 </div>
 
-> ⚙️ **Snake ko activate karne ke liye:** Apni repo mein `.github/workflows/snake.yml` file banao aur neeche diya hua code paste karo, phir **Actions → Run workflow** karo!
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v3
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: mawiya-47
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
 
 ## 💡 Dev Quote of the Day
 

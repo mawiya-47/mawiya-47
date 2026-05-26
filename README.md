@@ -8,8 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mawiya-47&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/mawiya-47?label=🤝%20Followers&style=for-the-badge&color=4c1d95" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Based%20In-Pakistan%20🇵🇰-7c3aed?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Building%20AI%20🔥-10b981?style=for-the-badge" />
@@ -122,17 +121,11 @@ print(me.life_motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mawiya-47&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawiya-47&theme=midnight-purple&hide_border=true" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawiya-47&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mawiya-47&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff" width="95%"/>

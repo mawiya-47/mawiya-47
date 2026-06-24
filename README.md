@@ -120,12 +120,20 @@ print(me.life_motto())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — The Numbers Don't Lie
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawiya-47&theme=midnight-purple&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawiya-47&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a78bfa&fire=f472b6&currStreakLabel=06b6d4"/>
+
 </div>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawiya-47&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=e2e8f0&langs_count=6"/>
+</div>
+
+---
 
 
 

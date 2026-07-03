@@ -128,11 +128,6 @@ print(me.life_motto())
 
 </div>
 
-<div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawiya-47&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=e2e8f0&langs_count=6"/>
-</div>
-
----
 
 
 

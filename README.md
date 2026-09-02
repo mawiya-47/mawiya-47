@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 👾 Who Am I?
 
@@ -62,7 +62,7 @@ print(me.life_motto())
 # >>> Code. Learn. Build. Repeat. 🚀
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ---
 
@@ -117,22 +117,18 @@ print(me.life_motto())
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 GitHub Stats — The Numbers Don't Lie
 
 <div align="center">
 
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mawiya-47&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a78bfa&fire=f472b6&currStreakLabel=06b6d4"/>
 
 </div>
 
-
-
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mawiya-47&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff" width="95%"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=mawiya-47&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -151,7 +147,6 @@ print(me.life_motto())
     <img alt="contribution snake" src="https://raw.githubusercontent.com/mawiya-47/mawiya-47/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
-
 
 ## 💡 Dev Quote of the Day
 

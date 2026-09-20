@@ -100,6 +100,18 @@ print(me.life_motto())
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
+### 🧮 Mathematics for AI & Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Linear%20Algebra-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Calculus-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Probability-2980B9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Discrete%20Mathematics-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optimization-C0392B?style=for-the-badge"/>
+</p>
+
+
 ### 🌐 Web Frameworks & Frontend
 
 <p align="left">

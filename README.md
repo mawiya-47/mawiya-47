@@ -6,8 +6,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mawiya-47&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" />
-&nbsp;
+<img src="https://hits.sh/github.com/mawiya-47.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7c3aed&labelColor=555555" alt="Profile Views" />
 
 <img src="https://img.shields.io/badge/Based%20In-Pakistan%20🇵🇰-7c3aed?style=for-the-badge" />
 &nbsp;
